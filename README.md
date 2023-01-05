@@ -7,3 +7,7 @@ This project is a portfolio made while taking a web development course at the un
 The website can simply be launched by opening the HTML file in a browser.
 
 The website can also be viewed from this link: [https://stevengvan.github.io/student_website/](https://stevengvan.github.io/student_website/)
+
+## Contact Form
+
+This form was not made to be functional as the website is only used for a showcase.

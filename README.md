@@ -1,6 +1,6 @@
 # Student Website
 
-This project is a portfolio made while taking a web development course at the university I attended. The portfolio was designed with the requirement of being accessible and responsive for all platforms.
+This project is a portfolio made while taking a web development course at the university I attended. The portfolio was created using only HTML, CSS, and Javascript, with the design requirement being an accessible and responsive website for all platforms.
 
 ## Launching Website
 
